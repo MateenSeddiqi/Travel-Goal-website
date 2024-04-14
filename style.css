@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.ul-item{
+    display:flex;
+    flex-direction: row;
+}
+.ul-item li{
+    padding: 10px;
+    list-style-type: none;
+}
+
+.ul-item li a{
+    color:black;
+    text-decoration: none;
+}

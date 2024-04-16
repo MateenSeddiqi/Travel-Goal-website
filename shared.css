@@ -10,6 +10,8 @@ header{
     justify-content: space-between;
     align-items: center;
     position: absolute;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .page-logo a{
@@ -32,7 +34,15 @@ header li{
     padding: 0px 15px;
 }
 
-header li a{
-    color:black;
+header a {
+    color:rgb(255, 251, 0);
     text-decoration: none;
+    font-size: 20px;
+    padding: 12px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+header a:hover{
+    color: rgb(77, 77, 77);
+    background-color: rgb(255, 251, 0);
 }

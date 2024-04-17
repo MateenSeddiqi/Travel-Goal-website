@@ -49,6 +49,8 @@
     background-color: rgb(255, 238, 0);
 }
 
+
+
 .highlights{
     background-color: rgb(134, 239, 239);
     width: 100%;
@@ -60,20 +62,19 @@
     text-transform: uppercase;
     font-size: 40px;
     font-family: "Raleway", sans-serif;
-    margin: 0;
-    width: 100%;
     text-align: center;
+    margin: 0;
 }
 
 .highlights ul {
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    width: 100%;
     justify-content: space-between;
 }
 
-.highlights li img{
+.highlights img {
+    border-radius: 10px;
     width: 200px;
     height: 100px;
 }

@@ -70,6 +70,7 @@
     list-style-type: none;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding: 3px 50px;
 }
@@ -95,6 +96,7 @@
     height: 8=70px;
     background-color:  rgb(83, 147, 147);
     padding-top: 0px;
+    padding-bottom: 10px;
 }
 
 .footer p {
@@ -104,8 +106,6 @@
 }
 
 .social-icons {
-    /* display: flex;
-    flex-direction: column; */
     text-align: center;
     width: 100%;
 }

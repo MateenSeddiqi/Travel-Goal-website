@@ -52,16 +52,15 @@
 /* Highlights section code  */
 
 .highlights {
-    background-color: aquamarine;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
+    background: linear-gradient(0deg, rgb(227, 255, 253), rgba(202, 243, 240));
+    padding: 10px;
 }
 
-.highlights h1 {
-    color: black;
+.highlights h1 {    
+    font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     font-size: 40px;
-    font-family: "Raleway", sans-serif;
+    color: rgb(59, 65, 64);
     text-align: center;
     margin: 0px;
     padding-top: 10px;
@@ -90,6 +89,7 @@
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     align-items: center;
+    text-align: center;
 }
 
 /* Footer section codes  */

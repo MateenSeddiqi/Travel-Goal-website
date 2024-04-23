@@ -30,3 +30,8 @@ main li img {
 .item-content{
     padding: 10px;
 }
+
+.actions{
+    margin-top: 50px;
+    text-align: end;
+}

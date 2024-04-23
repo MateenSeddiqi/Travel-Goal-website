@@ -14,6 +14,10 @@ main ul {
 main li {
     display: flex;
     background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    object-fit: cover;
 }
 
 main li img {

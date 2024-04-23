@@ -8,13 +8,14 @@ header{
 
 main ul {
     display: flex;
-    width: 800px;
+    width: 80%;
     margin: 0 auto;
 }
 
 main li {
     display: flex;
     background-color: white;
+    margin: 0 10px;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     overflow: hidden;

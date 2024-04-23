@@ -6,18 +6,21 @@ header{
     position: static;
 }
 
+main ul {
+    width: 800px;
+    margin: 0 auto;
+}
+
+main li {
+    display: flex;
+    background-color: white;
+}
+
 main li img {
     width: 300px;
     height: 250px;
 }
 
-
-
-
-
-/* .places{
-    background-color: darkgrey;
-    margin-top: 60px;
-    margin-left: 20px;
-    margin-right: 20px;
-} */
+.item-content{
+    padding: 20px;
+}

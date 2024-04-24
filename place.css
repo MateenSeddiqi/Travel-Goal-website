@@ -9,7 +9,7 @@ header{
 
 main ul {
     /* display: flex;
-    flex-direction: row; */
+    flex-wrap: wrap; */
     width: 80%;
     margin: 0 auto;
 }
@@ -21,7 +21,7 @@ main li {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     overflow: hidden;
-
+    width: 40%;
 }
 
 main li img {

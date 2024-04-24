@@ -8,10 +8,16 @@ header{
 }
 
 main ul {
-    /* display: flex;
-    flex-wrap: wrap; */
     width: 80%;
-    margin: 0 auto;
+    margin: 0 auto 15px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 20px;
+
+}
+
+li:nth-of-type(3) {
+    grid-column: 1 / span 2;
 }
 
 main li {
@@ -21,7 +27,6 @@ main li {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     overflow: hidden;
-    width: 40%;
 }
 
 main li img {

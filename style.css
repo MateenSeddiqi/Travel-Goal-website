@@ -259,21 +259,26 @@ header a:hover{
 .about-us{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     margin: 100px 150px;
 }
 
 .about-paragraph{
-    width: 70%;
+    width: 50%;
     height: 300px;
-    margin-right: 300px;
 }
 
 .about-text p{
     margin-top: 50px;
 }
 
+.about-social{
+    margin-top: 30px;
+}
+
+.read-more a{}
+
 .about-img{
-    width: 30%;
     height: 300px;
 }
 

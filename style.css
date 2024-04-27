@@ -18,7 +18,6 @@ header{
     left: 0;
     width: 100%;
     box-sizing: border-box;
-    background-color: beige;
 }
 
 .page-logo a{
@@ -191,7 +190,9 @@ header a:hover{
 /* ------------------------------*/
 /* Places page CSS code  */
 
-
+.place-header{
+    background-color: bisque;
+}
 .places {
     background: linear-gradient(30deg, rgb(77, 77, 77), rgb(58, 58,58));
     color: rgb(68, 68, 68);

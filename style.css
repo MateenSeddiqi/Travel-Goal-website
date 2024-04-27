@@ -259,4 +259,21 @@ header a:hover{
 .about-us{
     display: flex;
     flex-direction: row;
+    margin: 30px;
+}
+
+.about-paragraph{
+    width: 70%;
+    height: 300px;
+}
+
+.about-img{
+    width: 30%;
+    height: 300px;
+}
+
+.about-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }

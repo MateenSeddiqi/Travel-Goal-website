@@ -256,3 +256,7 @@ header a:hover{
 /* Places page CSS code  */
 /* ------------------------------*/
 
+.about-us{
+    display: flex;
+    flex-direction: row;
+}

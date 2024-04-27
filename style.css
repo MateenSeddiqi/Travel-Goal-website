@@ -273,10 +273,26 @@ header a:hover{
 }
 
 .about-social{
+    display: flex;
+    flex-direction: column;
+}
+.read-more{
     margin-top: 30px;
 }
 
-.read-more a{}
+.read-more a {
+    background-color: rgb(69, 68, 67);
+    color: white;
+}
+
+.about-social-icons{
+    margin-top: 20px;
+    width: 50%;
+}
+
+.about-social-icons a{
+    padding: 10px 0px; 
+}
 
 .about-img{
     height: 300px;

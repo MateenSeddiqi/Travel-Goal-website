@@ -256,17 +256,15 @@ header a:hover{
 /* About page CSS code  */
 /* ------------------------------*/
 
-.about-page{
-    background-color: #b4b0b0;
-    
-}
+/* .about-page{
+    background-color: #b4b0b0;   
+} */
 
 .about-us{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin: 100px 250px 300px 250px;
-
 }
 
 .about-paragraph{

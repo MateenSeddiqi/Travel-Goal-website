@@ -259,13 +259,15 @@ header a:hover{
 .about-us{
     display: flex;
     flex-direction: row;
-    margin: 30px;
+    margin: 100px 150px;
 }
 
 .about-paragraph{
     width: 70%;
     height: 300px;
+    margin-right: 300px;
 }
+
 
 .about-img{
     width: 30%;

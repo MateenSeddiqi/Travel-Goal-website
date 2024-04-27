@@ -3,7 +3,10 @@ body {
     margin: 0;
 }
 
-/* Header CSS code  */
+/* ------------------------------*/
+/* ------------------------------*/
+/* ------------------------------*/
+/* Header section CSS code  */
 header{
     display: flex;
     flex-direction: row;
@@ -102,7 +105,10 @@ header a:hover{
     background-color: rgb(255, 238, 0);
 }
 
-/* Highlights section code  */
+/* ------------------------------*/
+/* ------------------------------*/
+/* ------------------------------*/
+/* Highlights section CSS code  */
 
 .highlights {
     background: linear-gradient(0deg, rgb(227, 255, 253), rgba(202, 243, 240));
@@ -150,7 +156,11 @@ header a:hover{
 }
 
 
+/* ------------------------------*/
+/* ------------------------------*/
+/* ------------------------------*/
 /* Footer section codes  */
+
 .footer{
     background-color:  rgb(83, 147, 147);
     width: 100%;
@@ -175,3 +185,7 @@ header a:hover{
     padding: 0px 10px;
 }
 
+/* ------------------------------*/
+/* ------------------------------*/
+/* ------------------------------*/
+/* Places page CSS code  */

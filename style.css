@@ -206,14 +206,23 @@ header a:hover{
 
 .card-info {
     font-family: "Raleway", sans-serif;
-    font-size: 13px ;
+    font-size: 13px;
 }
 
 .price{
-    font-family: "Raleway", sans-serif;
-    font-size: 20px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:rgb(147, 232, 232);
     border-radius: 5px;
+    font-size: 20px ;
+}
+
+.card-button button{
+    background-color: rgb(147, 232, 232);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(2, 54, 54);;
+    font-size: larger;
+    width: 80%;
+    border: 1px solid;
 }
 
 /* ------------------------------*/

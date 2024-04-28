@@ -170,9 +170,18 @@ header a:hover{
 
 .prices{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
-    background: linear-gradient(90deg, rgb(164, 245, 245), rgba(230, 247, 246));
+    margin: 20px;
+    text-align: center;
+}
+
+.all-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 3px 50px;
 }
 
 .prices-card{

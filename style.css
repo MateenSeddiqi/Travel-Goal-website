@@ -209,6 +209,12 @@ header a:hover{
     font-size: 13px ;
 }
 
+.price{
+    font-family: "Raleway", sans-serif;
+    font-size: 20px ;
+    background-color:rgb(147, 232, 232);
+    border-radius: 5px;
+}
 
 /* ------------------------------*/
 /* Footer section codes  */

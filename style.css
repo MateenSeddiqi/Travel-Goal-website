@@ -185,6 +185,10 @@ header a:hover{
     padding: 3px 50px;
 }
 
+.prices-card:hover{
+    transform: scale(1.05);
+}
+
 .prices-card{
     background-color:white;
     border-radius: 5px;

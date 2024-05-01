@@ -390,13 +390,14 @@ header a:hover{
 /* Contact US page CSS code  */
 /* ------------------------------*/
 
-/* color for contnt  */
+
 .contact-us{
     background-color:#fafafa;
 }
 
+
 .contact-us-content{
-    margin:20rem;
+    padding: 20rem;
     display: flex;
     flex-direction: row;
 }

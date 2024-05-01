@@ -121,7 +121,8 @@ header a:hover{
 
 
 .highlights {
-    background: linear-gradient(0deg, rgb(227, 255, 253), rgba(202, 243, 240));
+    background-color:#fafafa;
+    /* background: linear-gradient(0deg, rgb(227, 255, 253), rgba(202, 243, 240)); */
     padding: 10px;
 }
 
@@ -175,7 +176,7 @@ header a:hover{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 0 10rem 2rem 10rem;
+    padding: 0 4rem 2rem 4rem;
     text-align: center;
 }
 

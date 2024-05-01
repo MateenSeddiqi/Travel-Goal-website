@@ -389,6 +389,11 @@ header a:hover{
 /* ------------------------------*/
 
 .contact-us{
-    margin-top: 57px;
-    background-color: #b4b0b0;
 }
+
+.contact-us-content{
+    margin:20rem;
+    display: flex;
+    flex-direction: row;
+}
+

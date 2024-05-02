@@ -411,5 +411,15 @@ header a:hover{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    text-align: center;
 
+}
+
+.contact-us-form{
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    background-color:rgb(254, 253, 253);
+    border-radius: 2px;
+    box-shadow: 2px 4px 8pc rgb(210, 207, 207);
 }

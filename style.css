@@ -394,15 +394,14 @@ header a:hover{
 
 
 .contact-us{
-    background-color:#fafafa;
+    /* background-color:#fafafa; */
+    padding: 20rem;
 }
 
 
 .contact-us-content{
-    padding: 20rem;
     display: flex;
     flex-direction: row;
-    padding:5rem 10rem;
-    background-color: #333333;
+    background-color: aquamarine;
 }
 

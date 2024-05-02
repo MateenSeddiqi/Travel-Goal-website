@@ -402,7 +402,6 @@ header a:hover{
 .contact-us-content{
     display: flex;
     flex-direction: row;
-    background-color: rgb(232, 231, 231);
     padding: 2rem;
 }
 

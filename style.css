@@ -403,6 +403,8 @@ header a:hover{
     display: flex;
     flex-direction: row;
     padding: 2rem;
+    background-color:rgb(254, 253, 253);
+    box-shadow: 2px 4px 8pc rgb(210, 207, 207);
 }
 
 .contact-all-text{
@@ -419,7 +421,5 @@ header a:hover{
     justify-content: center;
     text-align: center;
     padding: 2rem;
-    background-color:rgb(254, 253, 253);
     border-radius: 2px;
-    box-shadow: 2px 4px 8pc rgb(210, 207, 207);
 }

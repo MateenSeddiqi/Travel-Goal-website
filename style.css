@@ -415,12 +415,13 @@ header a:hover{
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
-
+    box-shadow: 2px 4px 8pc rgb(229, 229, 234);
 }
 
 .contact-us-form{
     padding: 2rem;
     margin-left: 10rem;
+    box-shadow: 2px 4px 8pc rgb(229, 229, 234);
 }
 
 .contact-us-form{

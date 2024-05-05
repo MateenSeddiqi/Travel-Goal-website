@@ -423,8 +423,14 @@ header a:hover{
     margin-left: 10rem;
 }
 
-.contact-us-form form{
+.contact-us-form{
     display: flex;
     flex-direction: column;
-    gap: 0.1rem;
+    justify-content: space-between;
+}
+
+.form-elment{
+    display: flex;
+    flex-direction: column;
+    padding: 0.3rem;
 }

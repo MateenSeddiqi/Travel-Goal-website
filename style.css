@@ -405,6 +405,7 @@ header a:hover{
     padding: 2rem;
     background-color:rgb(254, 253, 253);
     box-shadow: 2px 4px 8pc rgb(210, 207, 207);
+    border-radius: 5px;
 }
 
 .contact-all-text{
@@ -418,8 +419,12 @@ header a:hover{
 }
 
 .contact-us-form{
-    justify-content: center;
-    text-align: center;
     padding: 2rem;
-    border-radius: 2px;
+    margin-left: 10rem;
+}
+
+.contact-us-form form{
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
 }

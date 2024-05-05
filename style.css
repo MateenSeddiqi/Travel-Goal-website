@@ -402,7 +402,7 @@ header a:hover{
 .contact-us-content{
     display: flex;
     flex-direction: row;
-    padding: 2rem;
+    padding: 3rem;
     background-color:rgb(254, 253, 253);
     box-shadow: 2px 4px 8pc rgb(210, 207, 207);
     border-radius: 5px;
@@ -433,4 +433,11 @@ header a:hover{
     display: flex;
     flex-direction: column;
     padding: 0.3rem;
+}
+
+.contact-social-icons{
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }

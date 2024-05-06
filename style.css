@@ -395,7 +395,7 @@ header a:hover{
 
 .contact-us{
     background-color:#fafafa;
-    padding: 15rem;
+    padding: 6rem;
 }
 
 
@@ -422,7 +422,13 @@ header a:hover{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+}
+
+
+.contact-img img{
+    width: 100%;
+    height: 15rem;
 }
 
 .contact-us-form{

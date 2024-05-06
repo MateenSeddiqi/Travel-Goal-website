@@ -448,6 +448,16 @@ header a:hover{
     font-weight: normal;
 }
 
+.form-element-input{
+    padding: 0.5rem;
+}
+
+.form-element button{
+    background-color: rgb(135, 135, 141);
+    border: none;
+    color: white;
+    font-weight: bold;
+}
 .contact-social-icons{
     width: 20%;
     display: flex;

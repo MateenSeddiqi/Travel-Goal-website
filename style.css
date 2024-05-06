@@ -452,11 +452,18 @@ header a:hover{
     padding: 0.5rem;
 }
 
-.form-element button{
-    background-color: rgb(135, 135, 141);
+.form-element-button{
+    display: flex;
+    flex-direction: row;
+    padding: 0.5rem;
+}
+
+.form-element-button button{
+    background-color: rgb(125, 125, 217);
     border: none;
     color: white;
     font-weight: bold;
+    margin: 0rem 1rem 0rem 0rem;
 }
 .contact-social-icons{
     width: 20%;

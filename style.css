@@ -419,6 +419,7 @@ header a:hover{
 }
 
 .contact-us-form{
+    width: 40%;
     padding: 2rem;
     margin-left: 10rem;
     box-shadow: 2px 4px 8pc rgb(229, 229, 234);
@@ -434,11 +435,17 @@ header a:hover{
     display: flex;
     flex-direction: column;
     padding: 0.3rem;
+    font-weight: bold;
 }
 
 .form-element-radio{
-    font-size: small;
+    padding: 0.5rem;
+    font-weight: bold;
+}
 
+.radio-choice{
+    font-size: smaller;
+    font-weight: normal;
 }
 
 .contact-social-icons{

@@ -73,15 +73,20 @@
                         <input type="text" name="place" id="place" required>
                     </div>
 
+                    <div class="form-element"> 
+                        <label for="date">Date</label>
+                        <input type="date" name="date" id="date" required min="2000-01-01" max="2030-01-01">
+                    </div>
+
                     <div class="form-element-radio">
                         <label for="">Please Select your Package</label><br>
-                        <input type="radio" name="Package-type" id="high-package">
+                        <input type="radio" name="Package-type" id="high-package" required>
                         <label class="radio-choice" for="high-package">High Package</label>
                         
-                        <input type="radio" name="Package-type" id="medium-package">
+                        <input type="radio" name="Package-type" id="medium-package" required>
                         <label class="radio-choice" for="medium-package">Medium Package </label>
                         
-                        <input type="radio" name="Package-type" id="low-package">
+                        <input type="radio" name="Package-type" id="low-package" required>
                         <label class="radio-choice" for="low-package">Low Package </label>
                     </div>
 

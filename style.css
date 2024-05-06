@@ -459,12 +459,21 @@ header a:hover{
 }
 
 .form-element-button button{
-    background-color: rgb(125, 125, 217);
     border: none;
     color: white;
     font-weight: bold;
     margin: 0rem 1rem 0rem 0rem;
+    border-radius: 5px;
+    padding: 0.5rem;
 }
+
+.submit-btn{
+    background-color: rgb(47, 47, 248);
+}
+.reset-btn{
+    background-color: red;
+}
+
 .contact-social-icons{
     width: 20%;
     display: flex;

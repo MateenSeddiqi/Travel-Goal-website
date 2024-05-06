@@ -467,6 +467,9 @@ header a:hover{
     padding: 0.5rem;
 }
 
+textarea{
+    resize: none;
+}
 .form-element-button{
     display: flex;
     flex-direction: row;

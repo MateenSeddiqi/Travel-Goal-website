@@ -1,2 +1,2 @@
-let name = 'Hello World'
-alert(name)
+// let name = 'Hello World'
+// alert(name)

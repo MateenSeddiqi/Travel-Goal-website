@@ -9,8 +9,11 @@ function CountRemainingText() {
 
     if (inputLength >= 50) {
         remainingText.style.color = 'red';
+        user_comment.style.border = '2px solid red';
+        user_comment.classList.add('textarea-warning');
     } else {
         remainingText.style.color = 'black';
+        user_comment.style.backgroundColor = 'white';
     }
 }
 
